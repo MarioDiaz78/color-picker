@@ -25,7 +25,8 @@ function setColorPickerEventListeners(element, colors, pickerElements) {
         });
     }
 
-  /* rgb.red.addEventListener('change', () => {
+
+    /* rgb.red.addEventListener('change', () => {
         console.log("Red value: ", rgb.red.value);
         setBoxBGColor(colorBox, rgb.red.value, rgb.green.value, rgb.blue.value)
     })
